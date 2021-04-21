@@ -1,1 +1,5 @@
-﻿  Library Management Sys.vcxproj -> X:\Visual Studio 2019\Library-Management-Sys\x64\Debug\Library Management Sys.exe
+﻿  Source-Code.cpp
+X:\Visual Studio 2019\Library-Management-Sys\Library Management Sys\Source-Code.cpp(121): warning C4715: 'Admin_Login_fn': not all control paths return a value
+X:\Visual Studio 2019\Library-Management-Sys\Library Management Sys\Source-Code.cpp(77): warning C4715: 'Login_fn': not all control paths return a value
+X:\Visual Studio 2019\Library-Management-Sys\Library Management Sys\Source-Code.cpp(435): warning C4715: 'Back_Option_fn': not all control paths return a value
+  Library Management Sys.vcxproj -> X:\Visual Studio 2019\Library-Management-Sys\x64\Debug\Library Management Sys.exe
