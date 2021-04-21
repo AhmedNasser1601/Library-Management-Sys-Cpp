@@ -1,4 +1,4 @@
-# Library-Management-Sys
+# Library-Management-Sys-C++
 
 System to manage Libraries with several services and different privileges, Done Fully with C++
 
